@@ -20,3 +20,6 @@ https://atymic.dev/blog/github-actions-laravel-ci-cd/
 #Github actions
 https://wilsonmar.github.io/github-actions/
 
+#Shell script check spelling
+https://www.shellcheck.net/
+
